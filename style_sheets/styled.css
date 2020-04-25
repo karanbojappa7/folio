@@ -280,6 +280,10 @@ overflow:hidden;
 }
 
 
+.navbar
+{
+    z-index: 5;
+}
 
 
 #box1
