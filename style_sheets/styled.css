@@ -749,7 +749,7 @@ a:hover
 {
     
     margin-top: 6%;
-    height: 100vh;
+    height: 100vh auto;
     width: 100%;
     background-color:#0e0e0e;
     position: relative;
@@ -767,8 +767,8 @@ a:hover
 {
     width: 100%;
     background-color: #0e0e0e;
-    padding-top: -5%;
     margin-top: -8%;
+    padding-top: 5%;
     z-index: -1;
     
 }
