@@ -882,7 +882,10 @@ input[type="name"]:focus
     z-index: 5;
 }
 
-
+.navbar
+{
+	z-index:5;
+}
 
 .navbgss
 {
